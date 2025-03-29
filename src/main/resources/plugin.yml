@@ -1,0 +1,6 @@
+name: minecraft-shared-bars
+version: '1.0-SNAPSHOT'
+main: me.dollarmc.minecraftSharedBars.MinecraftSharedBars
+api-version: '1.21'
+authors: [ Cash ]
+description: A Minecraft Spigot Plugin that syncs health and food bars between players 
